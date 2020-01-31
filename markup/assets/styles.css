@@ -1,0 +1,17 @@
+.blog-post {
+  -webkit-box-shadow: 2px 4px 6px 0px rgba(186,184,186,1);
+  -moz-box-shadow: 2px 4px 6px 0px rgba(186,184,186,1);
+  box-shadow: 2px 4px 6px 0px rgba(186,184,186,1);
+  margin: 5px;
+  padding: 10px;
+}
+
+.blog-post-title,
+.blog-post-title a {
+  color: darkgray;
+}
+
+.blog-pagination {
+  margin-top: 20px;
+  text-align: center;
+}
